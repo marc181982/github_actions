@@ -1,3 +1,4 @@
+#Terraform Cloud Configuration
 terraform {
     backend "remote" {
     organization = "terratestomgeving"
