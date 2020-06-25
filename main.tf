@@ -2,7 +2,7 @@ terraform {
   backend "remote" {
     organization = "terratestomgeving"
     workspaces {
-      name = "azure-landingzone-team-01"
+      name = "azure-api-driven-workflow"
     }
   }
 }
